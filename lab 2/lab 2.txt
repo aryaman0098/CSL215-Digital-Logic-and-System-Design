@@ -1,0 +1,9 @@
+Dear All,
+
+Please design and implement a digital system to compare two 4 bit signed numbers wherein MSB represents the sign bit and rest the magnitude. If the sign bit is 1, number is negative else, positive.  You need to come to lab with design and vhd file of the same. In lab, you need to validate your design on FPGA board.
+
+Please submit this assignment by Sunday 09/09/2019 through LMS.
+
+Sincerely,
+
+Ankit
